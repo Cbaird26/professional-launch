@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Professional Launch</string>
+    <string name="title_activity_main">Professional Launch</string>
+    <string name="package_name">io.cbaird26.professionallaunch</string>
+    <string name="custom_url_scheme">io.cbaird26.professionallaunch</string>
+</resources>
